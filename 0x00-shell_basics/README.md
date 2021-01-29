@@ -2,4 +2,8 @@
 
 1-listit the script implores "ls" to itemize contain of a particular dir
 
-2-bring-me-home This script uses cd ~ the "~" specifies for home directory on linux
+2-bring-me-home This script uses cd ~ the "~" specifies for home directory on linux. This has to be executed with "source" keyword. e.g source ./2-bring_me_home
+
+3-list-files. The helps with the details of a file. such read, write and execute permission and the group/user/others they belong to time and date of when the foile or folder is created.
+
+4
